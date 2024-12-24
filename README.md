@@ -8,7 +8,7 @@
   <summary>:zap: Status do Repositório</summary>
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/ThiagoSEO">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?ThiagoSEO=anuraghazra&theme=dark&show_icons=true
 </div>
   
