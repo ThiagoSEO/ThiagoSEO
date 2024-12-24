@@ -9,7 +9,7 @@
 
 <div>
 <a href="https://github.com/ThiagoSEO">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?ThiagoSEO=anuraghazra&theme=dark&show_icons=true
+<img loading="lazy" height="180em" src="(https://github-readme-stats.vercel.app/api?username=ThiagoSEO  )(https://github.com/ThiagoSEO/github-readme-stats)
 </div>
   
 </details>
