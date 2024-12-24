@@ -7,7 +7,7 @@
   
   <summary>:zap: Status do Repositório</summary>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoseo&show_icons=true&theme=shadow_red)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoseo&show_icons=true&theme=chartreuse-dark)
   
 </details>
 
