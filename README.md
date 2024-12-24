@@ -67,8 +67,6 @@ Projetos de robótica avançada, Science, Technology, Engineering e Mathematics 
 Exercicíos de fixação e projetos para expansão das atividades comerciais.
 ```
 
----
-
 ## :page_facing_up: Documentação dos projetos
 
 ### Descrição:
@@ -77,7 +75,7 @@ Exercicíos de fixação e projetos para expansão das atividades comerciais.
 Descrição dos projetos pré instruidos, aqui eu incluo algumas informações para descrever o projeto.
 ```
 
-
+---
 
 ### <div align="center">Desenvolvedor de Sistemas Thiago Carvalho Martins</div>
 
