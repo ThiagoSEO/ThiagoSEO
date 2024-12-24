@@ -3,9 +3,7 @@
 <div>
     <img align="center" alt="ThiagoStdio | Card" width="200px" src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" />
 </div>
-</details>
 
-<details>
 
 ![snake gif](https://github.com/ThiagoSEO/ThiagoSEO/blob/output/github-user-contribution.svg)
 
