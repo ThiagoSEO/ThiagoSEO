@@ -1,9 +1,6 @@
 # Olá, meu nome é [Thiago Martins](https://wa.link/k2qiqs) !
 
 
-
-
-
 ## Seja Bem-Vindo aos meus projetos do GitHub <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <details>
@@ -46,11 +43,9 @@
 
 ---
 
-# Projetos Contidos Aqui
+# Projetos Contidos Aqui!
 
-## Repositório:
-
-### <img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.svg" /> Robótica
+### <img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.svg" /> Automação
 
 
 ```sh
@@ -60,10 +55,10 @@ Projetos de robótica avançada, Science, Technology, Engineering e Mathematics 
 ### :ocean: Exercícios e Projetos
 
 ```sh
-Exercicíos de fixação e projetos para expansão das atividades comerciais.
+Exercicíos de fixação e projetos para expansão das atividades acadêmicas.
 ```
 
-## :page_facing_up: Documentação dos projetos
+## :page_facing_up: Documentação para projetos
 
 ### Descrição:
 
@@ -73,7 +68,7 @@ Descrição dos projetos pré instruidos, aqui eu incluo algumas informações p
 
 ---
 
-### <div align="center">Desenvolvedor de Sistemas Thiago Carvalho Martins</div>
+### <div align="center">Desenvolvedor Thiago Carvalho Martins</div>
 
 # :ghost: Snake Commits
 ![snake gif](https://github.com/ThiagoSEO/ThiagoSEO/blob/output/github-user-contribution.svg)
