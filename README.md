@@ -7,7 +7,7 @@
   
   <summary>:zap: Status do Repositório</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoseo&show_icons=true&theme=radical)
   
 </details>
 
