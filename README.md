@@ -78,20 +78,10 @@ Descrição dos projetos pré instruidos, aqui eu incluo algumas informações p
 # :ghost: Snake Commits
 ![snake gif](https://github.com/ThiagoSEO/ThiagoSEO/blob/output/github-user-contribution.svg)
 
-
-[Instagram](https://www.instagram.com/stdio.comunicacao/)[<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/stdio.comunicacao/)
-
+---
 [LinkedIn](https://www.linkedin.com/in/thiago-c-621365175/)[<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/thiago-c-621365175/)
 
-[Facebook](https://www.facebook.com/Stdio.comunicacao/) [<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/Stdio.comunicacao/)
 
-[Github](https://github.com/ThiagoStdio)[<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/ThiagoStdio)
-
-[WhatsApp](https://wa.me/message/WX34SEEN4FHPP1)[<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.me/message/WX34SEEN4FHPP1)
-
-[Portfólio](http://stdio.online/portfolio.html)[<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />](http://stdio.online/portfolio.html)
-
----
 
 
 
