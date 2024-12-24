@@ -68,19 +68,6 @@ Projetos de robótica avançada, Science, Technology, Engineering e Mathematics 
 Exercicíos de fixação e projetos para expansão das atividades comerciais.
 ```
 
-### :raising_hand: Categorias
-
-```sh
-PROJETOS     NOME DO PROJETO-id (NÚMERO DO PROJETO)
-```
-```sh
-AUTOMAÇÃO     NOME DO PROJETO-id (NÚMERO DA SKETCH)
-```
-```sh
-EXERCICIO   NOME DO PROJETO-id (FACULDADE DO EXERCÍCIO)
-```
-
----
 ---
 
 ## :page_facing_up: Documentação dos projetos
