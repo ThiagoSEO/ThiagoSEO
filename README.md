@@ -7,10 +7,7 @@
   
   <summary>:zap: Status do Repositório</summary>
 
-<div>
-<a href="https://github.com/ThiagoSEO">
-<img loading="lazy" height="180em" src="https://github.com/ThiagoSEO/github-readme-stats
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   
 </details>
 
