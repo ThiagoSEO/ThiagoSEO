@@ -1,7 +1,7 @@
-# 📂 Olá, me chamo [Thiago Martins](https://wa.link/k2qiqs) !
+# Olá, me chamo [Thiago Martins](https://wa.link/k2qiqs) !
 
 
-## Seja Bem-Vindo aos meus projetos do GitHub <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+## Seja Bem-Vindo aos meus projetos do GitHub  📂 <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <details>
   
