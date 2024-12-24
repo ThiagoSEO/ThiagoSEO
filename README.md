@@ -42,7 +42,7 @@
 ### <div align="center">Desenvolvedor Thiago Carvalho Martins</div>
 # Projetos Contidos Aqui!
 
-### <img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.svg" /> Automação
+### <img align="left" alt="ThiagoStdio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" /> Automação
 
 
 ```sh
