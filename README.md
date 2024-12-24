@@ -71,7 +71,7 @@ Descrição dos projetos pré instruidos, aqui eu incluo algumas informações p
 ![snake gif](https://github.com/ThiagoSEO/ThiagoSEO/blob/output/github-user-contribution.svg)
 
 ---
-[LinkedIn](https://www.linkedin.com/in/thiago-c-621365175/)[<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/thiago-c-621365175/)
+[LinkedIn](https://www.linkedin.com/in/thiago-c-621365175/)[<img align="left" alt="ThiagoStdio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>](https://www.linkedin.com/in/thiago-c-621365175/)
 
 
 
