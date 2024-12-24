@@ -4,7 +4,7 @@
     <img align="center" alt="ThiagoStdio | Card" width="200px" src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif" />
 </div>
 
-![snake gif](https://github.com/ThiagoSEO/ThiagoSEO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ThiagoSEO/ThiagoSEO/blob/output/github-user-contribution.svg)
 
 
 ## Seja Bem-Vindo aos meus projetos do GitHub <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
