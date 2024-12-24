@@ -49,7 +49,6 @@
 <br/>
 
 ---
----
 
 # Projetos Contidos Aqui
 
@@ -77,29 +76,8 @@ Exercicíos de fixação e projetos para expansão das atividades comerciais.
 ```sh
 Descrição dos projetos pré instruidos, aqui eu incluo algumas informações para descrever o projeto.
 ```
----
----
-
-## :octocat: Sobre mim
-
-### :school_satchel: [Portfólio 2020:](http://stdio.online/portfolio.html)
-
-```sh
-Sou desenvolvedor de sistemas formado e técnico em mecatrônica. CEO do departamento de SEO e Marketing Stdio Comunicação.
-```
----
-
-# :ghost: Cartão Visita
-
-<div>
-    <img align="center" alt="ThiagoStdio | Card" width="700px" src="https://raw.githubusercontent.com/ThiagoSEO/ThiagoSEO/main/assets.png" />
-</div>
 
 
-<br/>
-<br/>
-
----
 
 ### <div align="center">Desenvolvedor de Sistemas Thiago Carvalho Martins</div>
 
