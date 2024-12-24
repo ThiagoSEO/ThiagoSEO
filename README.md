@@ -42,7 +42,7 @@
 
 
 ---
-
+### <div align="center">Desenvolvedor Thiago Carvalho Martins</div>
 # Projetos Contidos Aqui!
 
 ### <img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/arduino.svg" /> Automação
@@ -68,7 +68,7 @@ Descrição dos projetos pré instruidos, aqui eu incluo algumas informações p
 
 ---
 
-### <div align="center">Desenvolvedor Thiago Carvalho Martins</div>
+
 
 # :ghost: Commits 2025
 ![snake gif](https://github.com/ThiagoSEO/ThiagoSEO/blob/output/github-user-contribution.svg)
