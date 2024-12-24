@@ -1,8 +1,7 @@
 # Olá, meu nome é [Thiago Martins](https://wa.link/k2qiqs) !
 
 
-# :ghost: Snake Commits
-![snake gif](https://github.com/ThiagoSEO/ThiagoSEO/blob/output/github-user-contribution.svg)
+
 
 
 ## Seja Bem-Vindo aos meus projetos do GitHub <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -75,6 +74,9 @@ Descrição dos projetos pré instruidos, aqui eu incluo algumas informações p
 ---
 
 ### <div align="center">Desenvolvedor de Sistemas Thiago Carvalho Martins</div>
+
+# :ghost: Snake Commits
+![snake gif](https://github.com/ThiagoSEO/ThiagoSEO/blob/output/github-user-contribution.svg)
 
 
 [Instagram](https://www.instagram.com/stdio.comunicacao/)[<img align="left" alt="ThiagoStdio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/stdio.comunicacao/)
