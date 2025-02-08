@@ -1,7 +1,7 @@
-# Olá, me chamo [Thiago Martins](https://wa.link/k2qiqs) !
+# Olá mundo, bem vindo ao portfólio criado graciosamente por [Thiago Martins](https://wa.link/k2qiqs) !
 
 
-## Seja Bem-Vindo aos meus projetos do GitHub  📂 <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+## Contém nuita programação 001010101 📂 <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <details>
   
@@ -68,7 +68,6 @@ Descrição dos projetos pré instruidos, aqui eu incluo algumas informações p
 
 
 # :ghost: Commits 2025
-![snake gif](https://github.com/ThiagoSEO/ThiagoSEO/blob/output/github-user-contribution.svg)
 
 ---
 [LinkedIn](https://www.linkedin.com/in/thiago-c-621365175/)[<img align="left" alt="ThiagoStdio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>](https://www.linkedin.com/in/thiago-c-621365175/)
