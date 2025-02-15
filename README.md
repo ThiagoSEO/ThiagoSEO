@@ -41,19 +41,20 @@
 ---
 
 ### <div align="center">Desenvolvedor Thiago Martins</div>
-# Projetos Contidos Aqui!
+
+# Tipos de projetos:
 
 ### <img align="left" alt="ThiagoStdio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" /> Automação
 
 
 ```sh
-Projetos de robótica avançada, Science, Technology, Engineering e Mathematics (STEM).
+Projetos de robótica avançada, Science, Technology, Engineering e Mathematics (STEM), Trandutor de Energia e IOT.
 ```
 
 ### :ocean: Exercícios e Projetos
 
 ```sh
-Exercicíos de fixação e projetos para expansão das atividades acadêmicas.
+Exercicíos de fixação e projetos para expansão de atividades acadêmicas.
 ```
 
 ## :page_facing_up: Documentação para projetos
@@ -61,7 +62,7 @@ Exercicíos de fixação e projetos para expansão das atividades acadêmicas.
 ### Descrição:
 
 ```sh
-Descrição dos projetos pré instruidos, aqui eu incluo algumas informações para descrever o projeto.
+Descrição de projetos pré instruidos, aqui eu incluo algumas informações para criar os projetos.
 ```
 
 ---
