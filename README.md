@@ -59,8 +59,6 @@ Exercicíos de fixação e projetos para expansão de atividades acadêmicas.
 
 ## :page_facing_up: Documentação para projetos
 
-### Descrição:
-
 ```sh
 Descrição de projetos pré instruidos, aqui eu incluo algumas informações para criar os projetos.
 ```
