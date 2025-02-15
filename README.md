@@ -51,13 +51,13 @@
 Projetos de robótica avançada, Science, Technology, Engineering, Códigos para I.A.(Indicadores de Médias Móveis)(STEM), Trandutores de Energia e IOT.
 ```
 
-### :ocean: Exercícios e Projetos
+### :ocean:     Exercícios e Projetos
 
 ```sh
 Exercicíos de fixação e projetos para expansão de atividades acadêmicas.
 ```
 
-### :page_facing_up: Extensão para Acadêmicos
+### :page_facing_up:     Extensão para Acadêmicos
 
 ```sh
 Descrição de projetos pré instruidos, aqui eu incluo algumas informações para criar os projetos.
@@ -67,7 +67,7 @@ Descrição de projetos pré instruidos, aqui eu incluo algumas informações pa
 
 
 
-# :ghost: Commits 2025
+### :ghost:     Commits 2025
 
 ---
 [LinkedIn](https://www.linkedin.com/in/thiago-c-621365175/)[<img align="left" alt="ThiagoStdio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>](https://www.linkedin.com/in/thiago-c-621365175/)
