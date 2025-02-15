@@ -57,7 +57,7 @@ Projetos de robótica avançada, Science, Technology, Engineering, Códigos para
 Exercicíos de fixação e projetos para expansão de atividades acadêmicas.
 ```
 
-## :page_facing_up: Documentação para projetos
+### :page_facing_up: Extensão para Acadêmicos
 
 ```sh
 Descrição de projetos pré instruidos, aqui eu incluo algumas informações para criar os projetos.
