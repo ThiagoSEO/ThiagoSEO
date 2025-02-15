@@ -48,7 +48,7 @@
 
 
 ```sh
-Projetos de robótica avançada, Science, Technology, Engineering e Mathematics (STEM), Trandutor de Energia e IOT.
+Projetos de robótica avançada, Science, Technology, Engineering, Códigos para I.A.(Indicadores de Médias Móveis)(STEM), Trandutores de Energia e IOT.
 ```
 
 ### :ocean: Exercícios e Projetos
