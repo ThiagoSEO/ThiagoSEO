@@ -1,7 +1,7 @@
-# Olá mundo, bem vindo ao portfólio criado graciosamente por [Thiago Martins](https://wa.link/k2qiqs) !
+# Olá mundo, para os amantes de programação deixo a vós meu legadu by [Thiago Martins](https://wa.link/k2qiqs) !
 
 
-## Contém nuita programação 001010101 📂 <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+## Contém muita programação 001010101 📂 <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <details>
   
