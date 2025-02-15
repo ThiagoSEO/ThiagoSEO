@@ -44,7 +44,7 @@
 
 # Tipos de projetos:
 
-### <img align="left" alt="ThiagoStdio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" /> Automação
+### <img align="left" alt="ThiagoStdio" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Arduino_IDE_logo.svg" />Automação
 
 
 ```sh
