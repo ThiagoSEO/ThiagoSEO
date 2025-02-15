@@ -5,7 +5,7 @@
 
 <details>
   
-  <summary>:zap: Status do Repositório</summary>
+<summary>:zap: Status do Repositório <summary>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoseo&show_icons=true&theme=chartreuse-dark)
   
@@ -39,6 +39,7 @@
 
 
 ---
+
 ### <div align="center">Desenvolvedor Thiago Carvalho Martins</div>
 # Projetos Contidos Aqui!
 
